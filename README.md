@@ -1,2 +1,2 @@
 # python-senac
-arquivos utilizados na aula de curso em python no senac
+arquivos utilizados na aula do curso em python no senac
