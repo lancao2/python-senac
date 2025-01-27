@@ -28,3 +28,5 @@ switch (numeroDaSemana) {
         console.log("Número inválido. Informe um número de 1 a 7.");
         break;  
 }
+
+
