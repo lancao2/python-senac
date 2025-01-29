@@ -240,5 +240,5 @@ if (idadePessoa > 0){
     }
 } else {
     console.log("Idade inválida");
-}
+} 
 
