@@ -6,8 +6,8 @@ for (let i = 0; i < 5; i++) {
     }
 }
 
-let shipRow = Math.round(Math.random(1,5));
-let shipColumn = Math.round(Math.random(1,5));
+let shipRow = Math.round(Math.random()*5);
+let shipColumn = Math.round(Math.random()*5);
 
 let attPlayerRow = parseInt(prompt(" Infome a linha:"))
 let attPlayerColumn = (prompt(" Infome a Coluna:"))
