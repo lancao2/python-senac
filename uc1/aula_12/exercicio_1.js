@@ -15,9 +15,9 @@ class Livro {
     }
 
     exibirDetalhes() {
-        document.write(`Título: ${this._titulo}`);
-        document.write(`Autor: ${this._autor}`);
-        document.write(`Ano de publicação: ${this._anoPublicacao}`);
+        document.write(`Título: ${this._titulo} <br>`);
+        document.write(`Autor: ${this._autor} <br>`);
+        document.write(`Ano de publicação: ${this._anoPublicacao} <br>`);
     }
 }
 
